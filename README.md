@@ -1,6 +1,6 @@
 # Sarvam AI Laravel Package
 
-A comprehensive Laravel package for integrating Sarvam AI's powerful speech-to-text, text-to-speech, translation, and chat completion capabilities into your Laravel applications.
+A comprehensive Laravel package for integrating [Sarvam](https://www.sarvam.ai/) AI's powerful speech-to-text, text-to-speech, translation, and chat completion capabilities into your Laravel applications.
 
 ## Features
 
