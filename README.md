@@ -496,7 +496,7 @@ If you discover any security related issues, please email the maintainers instea
 
 ## Credits
 
-- [NextBuild](https://github.com/nextbuild)
+- [NextBuild](https://github.com/next-build)
 - [All Contributors](../../contributors)
 
 ## About Sarvam AI
